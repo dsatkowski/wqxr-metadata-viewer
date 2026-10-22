@@ -45,7 +45,7 @@ module.exports = async function handler(req, res) {
     const stations = [
       { id: 'wqxr', name: 'WQXR' },
       { id: 'wnycfm', name: 'WNYC' },
-      { id: 'tunein-test', name: 'TuneIn Test' }
+      { id: 'tunein-test', name: 'TuneIn Test' },
       { id: 'operavore', name: 'operavore-mobile' }
     ];
 
