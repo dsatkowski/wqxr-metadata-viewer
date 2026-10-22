@@ -46,6 +46,7 @@ module.exports = async function handler(req, res) {
       { id: 'wqxr', name: 'WQXR' },
       { id: 'wnycfm', name: 'WNYC' },
       { id: 'tunein-test', name: 'TuneIn Test' }
+      { id: 'operavore', name: 'operavore-mobile' }
     ];
 
     // Build API calls
