@@ -45,9 +45,9 @@ module.exports = async function handler(req, res) {
     const stations = [
       { id: 'wqxr', name: 'WQXR' },
       { id: 'wnycfm', name: 'WNYC' },
-      { id: 'tunein-test', name: 'TuneIn Test' },
+      { id: 'WQXR-Midroll-test', name: 'wqxr-midroll-test' },
       { id: 'operavore', name: 'operavore-mobile' },
-      { id: 'wnycfm-bspoke', name: 'BSPOKE-FM' }
+      { id: 'WNYC-Midroll-test', name: 'wnyc-midroll-test' }
     ];
 
     // Build API calls
